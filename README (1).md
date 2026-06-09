@@ -87,8 +87,8 @@ python drawing_pad.py
 
 ## 👨‍💻 Author
 
-- **Name:** Your Name  
-- **Roll No:** Your Roll Number  
+- **Name:** Shaik Taslima 
+- **Roll No:** 2025DCSBT11069
 - **Course:** Python Programming – I Year  
 - **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
