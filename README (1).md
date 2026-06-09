@@ -90,8 +90,7 @@ python drawing_pad.py
 - **Name:** Shaik Taslima 
 - **Roll No:** 2025DCSBT11069
 - **Course:** Python Programming – I Year  
-- **GitHub:** [github.com/TaslimaShaik08](https://github.com/YOUR_USERNAME)
-
+**GitHub:** [github.com/TaslimaShaik08](https://github.com/TaslimaShaik08)
 ---
 
 ## 📄 License
