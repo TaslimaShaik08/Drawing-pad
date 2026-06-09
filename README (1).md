@@ -95,4 +95,4 @@ python drawing_pad.py
 
 ## 📄 License
 
-This project is created for educational purposes as part of a college micro project assignment.
+This project is created for educational purposes as part of a college micro project assignment
